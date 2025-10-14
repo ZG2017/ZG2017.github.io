@@ -1,6 +1,6 @@
-# Ge (John) Zhang  - Personal Website
+# Ge (John) Zhang
 
-Welcome to my personal website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks.
+Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks.
 
 ## 📧 Contact Information
 
@@ -130,25 +130,4 @@ I am currently working as a Senior AI Researcher (Contractor) at Huawei Canada -
 
 ## 📄 Resume
 
-Download my complete resume: [resume.tex](resources/resume/GZ_resume_20250929.pdf)
-
-### Quick Highlights
-- **Education**: M.Eng. Electrical & Computer Engineering, University of Toronto (2017-2019)
-- **Experience**: 6+ years in ML engineering/research
-- **Specializations**: Recommendation Systems, LLMs, Graph Neural Networks
-- **Languages**: English, Mandarin
-- **Additional**: Amateur Photographer, Team Leadership (3+ members)
-
----
-
-## 🔗 Quick Links
-
-- [Research Papers](resources/papers/)
-- [Personal Projects](resources/prviate_projects/)
-- [Resume](resources/resume/)
-- [Google Scholar Profile](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en)
-- [GitHub Profile](https://github.com/ZG2017)
-
----
-
-*This website is built with GitHub Pages and showcases my academic and professional journey in AI/ML research and development.*
+Download my complete [resume](resources/resume/GZ_resume_20250929.pdf).
