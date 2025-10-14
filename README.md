@@ -1,5 +1,3 @@
-# Ge (John) Zhang
-
 Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks.
 
 ## 📧 Contact Information
