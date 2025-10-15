@@ -1,0 +1,55 @@
+--- --- @import "{{ site.theme }}";
+
+/* Navigation Buttons Styling */
+.nav-buttons {
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav-btn {
+    background-color: #159957;
+    border: 1px solid #159957;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    display: inline-block;
+    margin: 5px;
+}
+
+.nav-btn:hover {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: white;
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.nav-btn:active {
+    transform: translateY(0);
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+    .nav-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-btn {
+        width: 200px;
+        text-align: center;
+    }
+}
+
+/* Highlight current page */
+.nav-btn.current {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}

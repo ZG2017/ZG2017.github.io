@@ -2,6 +2,7 @@
 layout: default
 title: Personal Projects
 permalink: /projects/
+description: Personal Projects - Ge (John) Zhang
 ---
 
 # 🚀 Personal Projects

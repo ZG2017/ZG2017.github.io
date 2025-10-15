@@ -2,6 +2,7 @@
 layout: default
 title: Research Publications
 permalink: /research/
+description: Research Publications - Ge (John) Zhang
 ---
 
 # 📚 Research Publications

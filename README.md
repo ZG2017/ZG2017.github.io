@@ -1,9 +1,10 @@
-Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks.
+---
+layout: default
+title: Ge (John) Zhang
+description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, Graph Neural Networks (GNNs)
+---
 
-## 🧭 Navigation
-- **[📚 Research Publications](/research/)** - View my research papers and patents
-- **[🚀 Personal Projects](/projects/)** - Explore my personal projects and applications
-- **[📄 Resume](/resources/resume/GZ_resume_20250929.pdf)** - Download my complete resume
+Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks.
 
 ## 📧 Contact Information
 
