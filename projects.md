@@ -15,6 +15,11 @@ description: Personal Projects - Ge (John) Zhang
   - AI-powered summarization in English and other languages
   - Multi-platform distribution (email newsletter, social media)
   - Robust error handling and comprehensive state management
+- **Diagrams & Screenshots**:
+  <div style="display:flex; gap: 12px; align-items:flex-start;">
+    <img src="/resources/langgraph_mermaid_diagram.png" alt="LangGraph Workflow Diagram" style="width:50%; height:auto;" />
+    <img src="/resources/xhs_screenshot.jpg" alt="Xiaohongshu Post Screenshot" style="width:50%; height:auto;" />
+  </div>
 - **Subscribe**: [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com)
 
 ## **Reinforcement Learning for Chrome Dino Game**
@@ -25,6 +30,9 @@ description: Personal Projects - Ge (John) Zhang
   - Real-time observable training process on browser
   - Advanced features: replay memory, GAE, residual sampling
   - Continue training capability with pre-trained models
+- **Pipeline Diagram**:
+
+  ![Image Processing Procedure](/resources/image_processing_procedure.png)
 - **Results**: 
   - DQN: 9,088 (highest score)
   - Actor-Critic-GAE: 2,310

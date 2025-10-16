@@ -60,4 +60,4 @@ I have developed several innovative projects including automated news agents, re
 
 ## 📄 Resume
 
-Download my complete [resume](resources/resume/GZ_resume_20250929.pdf).
+Download my complete [resume](resources/GZ_resume_20250929.pdf).
