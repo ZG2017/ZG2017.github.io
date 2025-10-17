@@ -2,12 +2,7 @@
 layout: default
 title: Industrial Projects
 permalink: /industrial/
-description: Industrial Projects and Patents - Ge (John) Zhang
 ---
-
-# 🏭 Industrial Projects & Patents
-
-## Industrial Projects
 
 ### **Commonsense Reasoning Augmented App Recall**
 - **Keywords**: Recommendation System, NLP, LLM, Graph.

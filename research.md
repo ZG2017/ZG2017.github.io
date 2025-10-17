@@ -2,12 +2,7 @@
 layout: default
 title: Academic Research
 permalink: /research/
-description: Academic Research - Ge (John) Zhang
 ---
-
-# 📚 Academic Research
-
-## Recent Publications
 
 ### 1. <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
 - **Authors**: **Ge Zhang**, et al.
