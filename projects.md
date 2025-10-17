@@ -17,8 +17,8 @@ description: Personal Projects - Ge (John) Zhang
   - Robust error handling and comprehensive state management
 - **Diagrams & Screenshots**:
   <div style="display:flex; gap: 12px; align-items:flex-start;">
-    <img src="/resources/langgraph_mermaid_diagram.png" alt="LangGraph Workflow Diagram" style="width:50%; height:300px; object-fit:contain;" />
-    <img src="/resources/xhs_screenshot.jpg" alt="Xiaohongshu Post Screenshot" style="width:50%; height:300px; object-fit:contain;" />
+    <img src="/resources/langgraph_mermaid_diagram.png" alt="LangGraph Workflow Diagram" style="width:50%; height:500px; object-fit:contain;" />
+    <img src="/resources/xhs_screenshot.jpg" alt="Xiaohongshu Post Screenshot" style="width:50%; height:500px; object-fit:contain;" />
   </div>
   <img src="/resources/email_screen_shot.jpg" alt="Email Screenshot" style="width:100%; height:auto; margin-top:12px;" />
 - **Subscribe**: [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com)
@@ -44,15 +44,6 @@ description: Personal Projects - Ge (John) Zhang
 ## **"Visual Speaker" – Image Captioning Application**
 - **Technologies**: Image Captioning, AWS, ResNet50-LSTM
 - **Description**: Built web application to "speak out" contents of images using ResNet50-LSTM model, deployed on AWS using Lambda and EC2 instances.
-
----
-
-## 📧 Contact Information
-
-- **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
-- **Phone**: +1-6476711919
-- **Google Scholar**: [View Profile](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en)
-- **GitHub**: [github.com/ZG2017](https://github.com/ZG2017)
 
 ---
 

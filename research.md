@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Research Publications
+title: Academic Research
 permalink: /research/
-description: Research Publications - Ge (John) Zhang
+description: Academic Research - Ge (John) Zhang
 ---
 
-# 📚 Research Publications
+# 📚 Academic Research
 
 ## Recent Publications
 
@@ -18,7 +18,10 @@ description: Research Publications - Ge (John) Zhang
   - Three-stage pipeline requiring no SFT or human annotation.
   - Consistent gains on search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
 - **Pipeline Diagram**:
-  ![E-CARE Pipeline](/resources/ECARE_pipeline.png)
+  - Reasoning factor graph generation:
+  ![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
+  - Search relevance task:
+  ![Research Pipeline](/resources/research_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
 
 ### 2. [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
 - **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates
@@ -28,7 +31,7 @@ description: Research Publications - Ge (John) Zhang
   - Path identification over graphs to infer answers via multiple chains.
   - Strong results on kinship and spatial benchmarks, including a large Chinese kinship dataset.
 - **Pipeline Diagram**:
-  ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png)
+  ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png){: style="width: 80%; height: 250px; object-fit: contain;" }
 
 ### 3. [**Sparse Decomposition of Graph Neural Networks**](https://arxiv.org/abs/2410.19723)
 - **Authors**: Y Hu, M Zeng, **Ge Zhang**, P Rumiantsev, L Ma, Y Zhang, M Coates
@@ -57,23 +60,6 @@ description: Research Publications - Ge (John) Zhang
 ### 7. [**Design of 60 GHz Microstrip Antenna Array Composed Through Annular Feeding Line**](https://ieeexplore.ieee.org/document/7696531)
 - **Authors**: **Ge Zhang**, S Pu, ZR Liu, WF Liu
 - **Venue**: IEEE International Symposium on Antennas and Propagation (APSURSI), 2016
-
-## Patents Filed
-
-### **NURG: An Efficient Learning-to-Rank Framework with Commonsense Reasoning from Large Language Models** (US Patent Application 19/337,555, 2025)
-- **Authors**: **Ge Zhang**, R Ajwani, H Gu, Y Hu, Y Zhang
-
-### **Methods and Processors for Relational Reasoning from Text** (US Patent Application 19/074,860, 2025)
-- **Authors**: **Ge Zhang**, MA Alomrani, H Gu, Y Hu, Y Zhang
-
----
-
-## 📧 Contact Information
-
-- **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
-- **Phone**: +1-6476711919
-- **Google Scholar**: [View Profile](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en)
-- **GitHub**: [github.com/ZG2017](https://github.com/ZG2017)
 
 ---
 
