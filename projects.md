@@ -9,10 +9,10 @@ description: Personal Projects - Ge (John) Zhang
 
 ## **News Agent with LangGraph**
 - **Technologies**: LangGraph, MCP, LLM Agent, Selenium
-- **Description**: Built automated agent using LangGraph to manage end-to-end news clips generation workflow. The system implements LLMs-based news collection, summarization, and multi-language email distribution, with automated publishing pipeline to social media platforms.
+- **Description**: Developed an automated agent using LangGraph to manage end-to-end news clips generation workflow. The system implements LLM-based news collection, summarization, and multi-language email distribution, with automated publishing pipeline to social media platforms.
 - **Features**:
   - Automated news gathering from multiple sources using MCP servers
-  - AI-powered summarization in English and other languages
+  - AI-powered summarization in English and multiple languages
   - Multi-platform distribution (email newsletter, social media)
   - Robust error handling and comprehensive state management
 - **Diagrams & Screenshots**:
@@ -21,18 +21,18 @@ description: Personal Projects - Ge (John) Zhang
     <img src="/resources/xhs_screenshot.jpg" alt="Xiaohongshu Post Screenshot" style="width:50%; height:500px; object-fit:contain;" />
   </div>
   <img src="/resources/email_screen_shot.jpg" alt="Email Screenshot" style="width:100%; height:auto; margin-top:12px;" />
-- **Subscribe**: [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com)
+- **Subscribe**: [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com) to receive daily news clips.
 
 ## **Reinforcement Learning for Chrome Dino Game**
 - **Technologies**: Reinforcement Learning, Selenium, PyTorch
 - **Description**: Implemented multiple RL algorithms (DQN, REINFORCE, Actor-Critic, PPO) to train agents to play Chrome Dino Game with real-time training environment using Selenium.
 - **Key Features**:
   - Multiple RL algorithms for comparison and experimentation
-  - Real-time observable training process on browser
-  - Advanced features: replay memory, GAE, residual sampling
-  - Continue training capability with pre-trained models
-- **Pipeline Diagram**:
-
+  - Real-time observable training process on browser using Selenium
+  - Advanced RL features: replay memory, Generalized Advantage Estimation (GAE)
+  - Residual state sampling to detect acceleration of runway, as shown in the **State Sampling Diagram**
+  - Continuous training capability with pre-trained models
+- **State Sampling Diagram**:
   ![Image Processing Procedure](/resources/image_processing_procedure.png)
 - **Results**: 
   - DQN: 9,088 (highest score)
@@ -43,7 +43,7 @@ description: Personal Projects - Ge (John) Zhang
 
 ## **"Visual Speaker" – Image Captioning Application**
 - **Technologies**: Image Captioning, AWS, ResNet50-LSTM
-- **Description**: Built web application to "speak out" contents of images using ResNet50-LSTM model, deployed on AWS using Lambda and EC2 instances.
+- **Description**: Developed web application to generate textual descriptions of image contents using ResNet50-LSTM model, deployed on AWS using Lambda and EC2 instances.
 
 ---
 

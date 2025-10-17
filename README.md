@@ -6,13 +6,13 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ## 🎓 About Me
 
-Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in machine learning engineering and research, specializing in recommendation systems, LLMs-based reasoning/agentic system, and Graph Neural Networks. I hold a Master of Engineering in Electrical & Computer Engineering from the University of Toronto (GPA: 3.67/4.00) and a Bachelor of Science in Physics from Wuhan University of Technology (GPA: 3.75/4.00).
+I am a Senior AI Researcher with over six years of experience in machine learning engineering and research, specializing in recommendation systems, LLM-based reasoning and agentic systems, and Graph Neural Networks. I hold a Master of Engineering in Electrical & Computer Engineering from the University of Toronto (GPA: 3.67/4.00) and a Bachelor of Science in Physics from Wuhan University of Technology (GPA: 3.75/4.00).
 
 ### Key Expertise
 - **Domains**: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, Graph Neural Networks (GNNs)
 - **ML Frameworks**: PyTorch, TensorFlow, vLLM, LangGraph, Transformers, Selenium, MCP, Elastic Search, Scikit-Learn, AWS
 - **Languages**: Python
-- **Experience**: 6+ years of machine learning engineering/research experiences.
+- **Experience**: Over six years of machine learning engineering and research experience.
 
 ---
 
@@ -20,17 +20,17 @@ Welcome to my website! I'm a Senior AI Researcher with 6+ years of experience in
 
 ### **Senior AI Researcher (Contractor)** | Huawei Canada - Noah's Ark Lab
 #### 2021/10 – Present
-- Lead project on efficient LLMs-based solutions for recommendation systems in e-commerce
-- Lead project on novel frameworks for solving kinship/spatial relational reasoning tasks with LLMs
+- Leading research projects on efficient LLM-based solutions for recommendation systems in e-commerce
+- Leading research projects on novel frameworks for solving kinship and spatial relational reasoning tasks with LLMs
 
 ### **ML Algorithm Engineer** | Kuaishou Technology
 #### 2020/12 – 2021/09
-- Developed causal inference framework to distribute user incentive budgets for maximum potential gain
-- Built personalized recall pipeline for short video recommendation system
+- Developed causal inference frameworks to optimize user incentive budget distribution for maximum potential gain
+- Built personalized recall pipelines for short video recommendation systems
 
 ### **Data Scientist** | MorningStar
 #### 2019/07 – 2020/11
-- Constructed NLP solution to match unorthodox fund abbreviation to its standard name
+- Developed NLP solutions to match unorthodox fund abbreviations to their standard names
 
 ---
 
