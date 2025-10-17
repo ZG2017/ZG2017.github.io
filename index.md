@@ -45,7 +45,7 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ---
 
-## 📧 **Contact Information**
+## 📧 Contact Information
 
 - **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
 - **Phone**: +1-6476711919
