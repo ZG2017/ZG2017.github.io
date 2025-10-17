@@ -4,7 +4,7 @@ title: Ge (John) Zhang
 permalink: /research/
 ---
 
-## 📚 **Academic Research**
+## 📚 Academic Research
 
 ### <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
 - **Authors**: **Ge Zhang**, et al.

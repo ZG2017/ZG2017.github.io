@@ -4,7 +4,7 @@ title: Ge (John) Zhang
 permalink: /projects/
 ---
 
-## 🚀 **Personal Projects**
+## 🚀 Personal Projects
 
 ### **News Agent with LangGraph**
 - **Technologies**: LangGraph, MCP, LLM Agent, Selenium

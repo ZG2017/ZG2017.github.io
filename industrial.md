@@ -4,7 +4,7 @@ title: Ge (John) Zhang
 permalink: /industrial/
 ---
 
-## 🏭 **Industrial Projects**
+## 🏭 Industrial Projects
 
 ### **Commonsense Reasoning Augmented App Recall**
 - **Keywords**: Recommendation System, NLP, LLM, Graph.
@@ -15,7 +15,7 @@ permalink: /industrial/
   - Offline evaluation showed that recall@5 improved by 11.1%, while precision@5 increased by 12.1%.
   - Online A/B testing demonstrated an 8.23% increase in Conversion Rate (CVR).
 - **Diagram**:
-<img src="/resources/ECARE_pipeline_v2.png" alt="graph generation" style="width:100%; height:400px; object-fit:contain;" />
+<img src="/resources/ECARE_pipeline_v2.png" alt="graph generation" style="display:block; width:100%; height:360px; object-fit:contain; margin: 4px 0;" />
 <div style="display:flex; gap: 12px; align-items:flex-start;">
   <img src="/resources/offline_training.png" alt="Offline Training Pipeline" style="width:50%; height:400px; object-fit:contain;" />
   <img src="/resources/app_recall.png" alt="App Recall Pipeline" style="width:50%; height:400px; object-fit:contain;" />
@@ -43,7 +43,7 @@ permalink: /industrial/
 
 ---
 
-## 🏭 **Patent Filed**
+## 🏭 Patent Filed
 
 ### **NURG: An Efficient Learning-to-Rank Framework with Commonsense Reasoning from Large Language Models** (US Patent Application 19/337,555, 2025)
 - **Authors**: **Ge Zhang**, R Ajwani, H Gu, Y Hu, Y Zhang

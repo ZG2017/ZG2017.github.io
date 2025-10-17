@@ -10,7 +10,7 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
   <div style="flex: 1;">
     Welcome to my website! I am currently a Senior AI Researcher at Huawei Canada - Noah's Ark Lab with over six years of experience in machine learning engineering and research. My expertise spans <strong>recommendation systems</strong>, <strong>Large Language Model(LLM)-based reasoning and agentic systems</strong>, and <strong>Graph Neural Networks (GNN)</strong>.
   </div>
-  <div style="flex: 0 0 140px; margin-top: 0;">
+  <div style="flex: 0 0 140px; margin-top: -8px;">
     <img src="/resources/photo.jpg" alt="Ge Zhang" style="width: 100%; height: auto; border-radius: 10px;" />
   </div>
 </div>
@@ -45,7 +45,7 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ---
 
-## 📧 Contact Information
+## 📧 **Contact Information**
 
 - **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
 - **Phone**: +1-6476711919
