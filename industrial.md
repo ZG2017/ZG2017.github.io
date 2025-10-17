@@ -11,10 +11,11 @@ description: Industrial Projects and Patents - Ge (John) Zhang
 
 ### **Commonsense Reasoning Augmented App Recall**
 - **Keywords**: Recommendation System, NLP, LLM, Graph.
-- **Background**: Industrial implementation of academic research **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce** to efficiently enhance app recall procedure with LLM's commonsense reasoning ability.
+- **Background**: Industrial implementation of academic research [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](/research/#ecare) to efficiently enhance the app recall procedure with LLM-driven commonsense reasoning.
 - **Key Contributions**:
   - Proposed a three-stage pipeline to distill domain commonsense from historical query-to-app interactions into a reasoning factor graph requiring no supervised fine-tuning or human annotation.
   - Developed a pipeline that recalls apps given reasoning factor graph with respect to commonsense behind the input query.
+  - Offline evaluation showed that recall@5 improved by 11.1%, while precision@5 increased by 12.1%.
   - Online A/B testing demonstrated an 8.23% increase in Conversion Rate (CVR).
 - **Diagram**:
   <div style="display:flex; gap: 12px; align-items:flex-start;">

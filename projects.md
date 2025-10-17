@@ -21,7 +21,7 @@ description: Personal Projects - Ge (John) Zhang
     <img src="/resources/xhs_screenshot.jpg" alt="Xiaohongshu Post Screenshot" style="width:50%; height:500px; object-fit:contain;" />
   </div>
   <img src="/resources/email_screen_shot.jpg" alt="Email Screenshot" style="width:100%; height:auto; margin-top:12px;" />
-- **Subscribe**: [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com) to receive daily news clips.
+- Subscribe to [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com) to receive daily news clips.
 
 ## **Reinforcement Learning for Chrome Dino Game**
 - **Technologies**: Reinforcement Learning, Selenium, PyTorch

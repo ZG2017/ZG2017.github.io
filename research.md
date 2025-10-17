@@ -9,7 +9,7 @@ description: Academic Research - Ge (John) Zhang
 
 ## Recent Publications
 
-### 1. **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
+### 1. <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
 - **Authors**: **Ge Zhang**, et al.
 - **Abstract**: We introduce E-CARE, a cost-efficient LLM-augmented framework that distills domain commonsense into a factor graph, enabling one LLM call per query for e-commerce relevance and retrieval. It yields up to 12.79% Macro F1 and 12.1% Recall@5 gains.
 - **Status**: Under review for WWW 2026.

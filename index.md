@@ -8,13 +8,7 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 <div style="display:flex; gap: 20px; align-items:flex-start;">
   <div style="flex: 1;">
-    Welcome to my website! I am a Senior AI Researcher with over six years of experience in machine learning engineering and research, specializing in recommendation systems, LLM-based reasoning and agentic systems, and Graph Neural Networks. I hold a Master of Engineering in Electrical & Computer Engineering from the University of Toronto (GPA: 3.67/4.00) and a Bachelor of Science in Physics from Wuhan University of Technology (GPA: 3.75/4.00).
-
-    ### Key Expertise
-    - **Domains**: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, Graph Neural Networks (GNNs)
-    - **ML Frameworks**: PyTorch, TensorFlow, vLLM, LangGraph, Transformers, Selenium, MCP, Elastic Search, Scikit-Learn, AWS
-    - **Languages**: Python
-    - **Experience**: Over six years of machine learning engineering and research experience.
+    Welcome to my website! I am currently a Senior AI Researcher with over six years of experience in machine learning engineering and research, specializing in <strong>recommendation systems</strong>, <strong>LLM-based reasoning and agentic systems</strong>, and <strong>Graph Neural Networks</strong>.
   </div>
   <div style="flex: 0 0 200px;">
     <img src="/resources/photo.jpg" alt="Ge Zhang" style="width: 100%; height: auto; border-radius: 10px;" />
@@ -41,10 +35,17 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ---
 
+## 🎓 Education
+
+### **Master of Engineering, Electrical & Computer Engineering, University of Toronto** 
+#### 2017/09 – 2019/06
+- GPA: 3.67/4.00
+### **Bachelor of Science, Physics, Wuhan University of Technology** 
+#### 2013/09 – 2017/06
+- GPA: 3.75/4.00
+
+---
+
 ## 📧 Contact Information
 
-- **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
-- **Phone**: +1-6476711919
-- **Google Scholar**: [View Profile](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en)
-- **GitHub**: [github.com/ZG2017](https://github.com/ZG2017)
-- **LinkedIn**: [Ge Zhang](https://www.linkedin.com/in/ge-zhang-21a836179/)
+[Email](mailto:gz19950616@gmail.com) | [Google Scholar](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en) | [GitHub](https://github.com/ZG2017) | [LinkedIn](https://www.linkedin.com/in/ge-zhang-21a836179/)
