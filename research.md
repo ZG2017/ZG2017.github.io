@@ -17,6 +17,8 @@ description: Research Publications - Ge (John) Zhang
   - Distill domain commonsense from historical query–product pairs into a reasoning factor graph.
   - Three-stage pipeline requiring no SFT or human annotation.
   - Consistent gains on search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
+- **Pipeline Diagram**:
+  ![E-CARE Pipeline](/resources/ECARE_pipeline.png)
 
 ### 2. [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
 - **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates
@@ -25,6 +27,8 @@ description: Research Publications - Ge (John) Zhang
   - Single-call prompting to extract task-agnostic graphs and queries.
   - Path identification over graphs to infer answers via multiple chains.
   - Strong results on kinship and spatial benchmarks, including a large Chinese kinship dataset.
+- **Pipeline Diagram**:
+  ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png)
 
 ### 3. [**Sparse Decomposition of Graph Neural Networks**](https://arxiv.org/abs/2410.19723)
 - **Authors**: Y Hu, M Zeng, **Ge Zhang**, P Rumiantsev, L Ma, Y Zhang, M Coates
