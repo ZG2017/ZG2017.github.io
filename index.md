@@ -48,7 +48,6 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 ## 📧 Contact Information
 
 - **Email**: [gz19950616@gmail.com](mailto:gz19950616@gmail.com)
-- **Phone**: +1-6476711919
 - **Google Scholar**: [View Profile](https://scholar.google.ca/citations?user=_YDDusIAAAAJ&hl=en)
 - **GitHub**: [github.com/ZG2017](https://github.com/ZG2017)
 - **LinkedIn**: [Ge Zhang](https://www.linkedin.com/in/ge-zhang-21a836179/)
