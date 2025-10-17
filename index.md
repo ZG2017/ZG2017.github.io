@@ -10,7 +10,7 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
   <div style="flex: 1;">
     Welcome to my website! I am currently a Senior AI Researcher at Huawei Canada - Noah's Ark Lab with over six years of experience in machine learning engineering and research. My expertise spans <strong>recommendation systems</strong>, <strong>Large Language Model(LLM)-based reasoning and agentic systems</strong>, and <strong>Graph Neural Networks (GNN)</strong>.
   </div>
-  <div style="flex: 0 0 140px;">
+  <div style="flex: 0 0 140px; margin-top: 0;">
     <img src="/resources/photo.jpg" alt="Ge Zhang" style="width: 100%; height: auto; border-radius: 10px;" />
   </div>
 </div>
@@ -20,17 +20,17 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 ## 💼 Professional Experience
 
 ### **Senior AI Researcher (Contractor)** | Huawei Canada - Noah's Ark Lab
-#### 2021/10 – Present
+2021/10 – Present
 - Leading projects on efficient LLM-based solutions for recommendation systems in e-commerce
 - Leading projects on novel frameworks for solving kinship and spatial relational reasoning tasks with LLMs
 
 ### **ML Algorithm Engineer** | Kuaishou Technology
-#### 2020/12 – 2021/09
+2020/12 – 2021/09
 - Developed causal inference frameworks to optimize user incentive budget distribution for maximum potential gain
 - Built personalized recall pipelines for short video recommendation systems
 
 ### **Data Scientist** | MorningStar
-#### 2019/07 – 2020/11
+2019/07 – 2020/11
 - Developed NLP solutions to match unorthodox fund abbreviations to their standard names
 
 ---
@@ -38,10 +38,10 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 ## 🎓 Education
 
 ### **Master of Engineering, Electrical & Computer Engineering, University of Toronto** 
-#### 2017/09 – 2019/06 | GPA: 3.67/4.00
+2017/09 – 2019/06 | GPA: 3.67/4.00
 
 ### **Bachelor of Science, Physics, Wuhan University of Technology** 
-#### 2013/09 – 2017/06 | GPA: 3.75/4.00
+2013/09 – 2017/06 | GPA: 3.75/4.00
 
 ---
 

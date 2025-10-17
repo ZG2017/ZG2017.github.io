@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Personal Projects
+title: Ge (John) Zhang
 permalink: /projects/
 ---
 
-## **News Agent with LangGraph**
+## 🚀 **Personal Projects**
+
+### **News Agent with LangGraph**
 - **Technologies**: LangGraph, MCP, LLM Agent, Selenium
 - **Description**: Developed an automated agent using LangGraph to manage end-to-end news clips generation workflow. The system implements LLM-based news collection, summarization, and multi-language email distribution, with automated publishing pipeline to social media platforms.
 - **Features**:
@@ -20,7 +22,7 @@ permalink: /projects/
   <img src="/resources/email_screen_shot.jpg" alt="Email Screenshot" style="width:100%; height:auto; margin-top:12px;" />
 - Subscribe to [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com) to receive daily news clips.
 
-## **Reinforcement Learning for Chrome Dino Game**
+### **Reinforcement Learning for Chrome Dino Game**
 - **Technologies**: Reinforcement Learning, Selenium, PyTorch
 - **Description**: Implemented multiple RL algorithms (DQN, REINFORCE, Actor-Critic, PPO) to train agents to play Chrome Dino Game with real-time training environment using Selenium.
 - **Key Features**:
@@ -37,10 +39,6 @@ permalink: /projects/
   - Actor-Critic-TD: 1,216
   - REINFORCE: 780
 - **GitHub**: [Deep_Q_Network-on-chrome-dino-jump](https://github.com/ZG2017/Deep_Q_Network-on-chrome-dino-jump)
-
-## **"Visual Speaker" – Image Captioning Application**
-- **Technologies**: Image Captioning, AWS, ResNet50-LSTM
-- **Description**: Developed web application to generate textual descriptions of image contents using ResNet50-LSTM model, deployed on AWS using Lambda and EC2 instances.
 
 ---
 

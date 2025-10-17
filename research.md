@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Academic Research
+title: Ge (John) Zhang
 permalink: /research/
 ---
 
-### 1. <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
+## 📚 **Academic Research**
+
+### <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
 - **Authors**: **Ge Zhang**, et al.
 - **Abstract**: We introduce E-CARE, a cost-efficient LLM-augmented framework that distills domain commonsense into a factor graph, enabling one LLM call per query for e-commerce relevance and retrieval. It yields up to 12.79% Macro F1 and 12.1% Recall@5 gains.
 - **Status**: Under review for WWW 2026.
@@ -14,11 +16,11 @@ permalink: /research/
   - Consistent improvements in search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
 - **Pipeline Diagram**:
   - Reasoning factor graph generation:
-  ![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
+![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
   - Search relevance task:
-  ![Research Pipeline](/resources/research_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
+![Research Pipeline](/resources/research_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
 
-### 2. [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
+### [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
 - **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates
 - **Abstract**: Path-of-Thoughts (PoT) decomposes relational reasoning into graph extraction, path identification, and reasoning, achieving up to 21.3% improvements on long-chain benchmarks with few LLM calls and improved robustness.
 - **Key Contributions**:
@@ -28,7 +30,7 @@ permalink: /research/
 - **Pipeline Diagram**:
   ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png){: style="width: 80%; height: 250px; object-fit: contain;" }
 
-### 3. [**Sparse Decomposition of Graph Neural Networks**](https://arxiv.org/abs/2410.19723)
+### [**Sparse Decomposition of Graph Neural Networks**](https://arxiv.org/abs/2410.19723)
 - **Authors**: Y Hu, M Zeng, **Ge Zhang**, P Rumiantsev, L Ma, Y Zhang, M Coates
 - **Abstract**: We introduce a sparse decomposition framework that factorizes GNN hidden representations into a small set of basis components with sparse coefficients, improving interpretability and efficiency while retaining predictive performance.
 - **Key Contributions**:
@@ -36,7 +38,7 @@ permalink: /research/
   - Provided analysis showing regularization and interpretability benefits without sacrificing expressivity.
   - Empirically demonstrated competitive accuracy with reduced complexity and clearer explanations across standard graph benchmarks.
 
-### 4. [**Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data**](https://arxiv.org/abs/2409.12437)
+### [**Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data**](https://arxiv.org/abs/2409.12437)
 - **Authors**: J Zhou, A Ghaddar, **Ge Zhang**, L Ma, Y Hu, S Pal, M Coates, B Wang
 - **Abstract**: We generate graph-structured synthetic data that encodes compositional relations and reasoning chains, and use it to augment LLM training/evaluation, yielding consistent gains on multi-step logical reasoning without task-specific fine-tuning.
 - **Key Contributions**:
@@ -44,15 +46,15 @@ permalink: /research/
   - Data augmentation curriculum that injects compositional structure and longer reasoning chains.
   - Improved accuracy and robustness on multi-step reasoning benchmarks compared to strong baselines.
 
-### 5. [**Optimized Design of THz Microstrip Antenna Based on Dual-Surfaced Multiple Split-Ring Resonators**](https://ieeexplore.ieee.org/document/8072920)
+### [**Optimized Design of THz Microstrip Antenna Based on Dual-Surfaced Multiple Split-Ring Resonators**](https://ieeexplore.ieee.org/document/8072920)
 - **Authors**: **Ge Zhang**, S Pu, XY Xu, C Tao, JY Dun
 - **Venue**: 2017 IEEE International Symposium on Antennas and Propagation & USNC/URSI, 2017
 
-### 6. [**Design of 60-GHz Microstrip Antenna Array Composed Through Circular Contour Feeding Line**](https://ieeexplore.ieee.org/document/7522931)
+### [**Design of 60-GHz Microstrip Antenna Array Composed Through Circular Contour Feeding Line**](https://ieeexplore.ieee.org/document/7522931)
 - **Authors**: **Ge Zhang**, S Pu, X Xu, Y Liu, C Wang
 - **Venue**: 2016 Asia-Pacific International Symposium on Electromagnetic Compatibility, 2016
 
-### 7. [**Design of 60 GHz Microstrip Antenna Array Composed Through Annular Feeding Line**](https://ieeexplore.ieee.org/document/7696531)
+### [**Design of 60 GHz Microstrip Antenna Array Composed Through Annular Feeding Line**](https://ieeexplore.ieee.org/document/7696531)
 - **Authors**: **Ge Zhang**, S Pu, ZR Liu, WF Liu
 - **Venue**: IEEE International Symposium on Antennas and Propagation (APSURSI), 2016
 
