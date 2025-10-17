@@ -16,7 +16,7 @@ permalink: /research/
   - Consistent improvements in search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
 - **Pipeline Diagram**:
   - Reasoning factor graph generation:
-![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
+![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 300px; object-fit: contain;" }
   - Search relevance task:
 ![Research Pipeline](/resources/research_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
 
