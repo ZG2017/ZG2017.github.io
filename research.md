@@ -16,9 +16,9 @@ permalink: /research/
   - Consistent improvements in search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
 - **Pipeline Diagram**:
   - Reasoning factor graph generation:
-![E-CARE Pipeline](/resources/ECARE_pipeline.png){: style="width: 100%; height: 300px; object-fit: contain;" }
+<img src="/resources/ECARE_pipeline.png" alt="E-CARE Pipeline" style="width: 100%; height: 300px; object-fit: contain; display: block; margin: 4px 0;" />
   - Search relevance task:
-![Research Pipeline](/resources/research_pipeline.png){: style="width: 100%; height: 400px; object-fit: contain;" }
+<img src="/resources/research_pipeline.png" alt="Research Pipeline" style="width: 100%; height: 400px; object-fit: contain; display: block; margin: 4px 0;" />
 
 ### [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
 - **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates
