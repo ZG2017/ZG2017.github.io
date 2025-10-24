@@ -12,6 +12,7 @@ permalink: /industrial/
 - **Key Contributions**:
   - Proposed a three-stage pipeline to distill domain commonsense from historical query-to-app interactions into a reasoning factor graph requiring no supervised fine-tuning or human annotation.
   - Developed a pipeline that recalls apps given reasoning factor graph with respect to commonsense behind the input query.
+- **Results**:
   - Offline evaluation showed that recall@5 improved by 11.1%, while precision@5 increased by 12.1%.
   - Online A/B testing demonstrated an 8.23% increase in Conversion Rate (CVR).
 - **Diagram**:
