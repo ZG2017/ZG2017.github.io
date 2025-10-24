@@ -22,7 +22,7 @@ permalink: /projects/
   <img src="/resources/email_screen_shot.jpg" alt="Email Screenshot" style="width:100%; height:auto; margin-top:12px;" />
 - Subscribe to [gz_daily_news_clips@googlegroups.com](mailto:gz_daily_news_clips@googlegroups.com) to receive daily news clips.
 
-### **Reinforcement Learning for Chrome T-rex runner game**
+### **Reinforcement Learning for Chrome T-rex Runner Game**
 - **Technologies**: Reinforcement Learning, Selenium, PyTorch
 - **Description**: Implemented multiple RL algorithms (DQN, REINFORCE, Actor-Critic, PPO) to train agents to play Chrome Dino Game with real-time training environment using Selenium.
 - **Key Features**:
