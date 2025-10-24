@@ -27,16 +27,16 @@ permalink: /industrial/
 - **Key Contributions**:
   - Developed recall and ranking pipeline with Elasticsearch and DSSM as recall and ranking models, respectively
   - Synthesized a large abbreviation-to-full name corpus for pre-training, followed by fine-tuning on the real corpus
+- **Results**:
   - Achieved 21% improvement in fund name recall compared to original word2vec cosine similarity
 
-### **User Bonus Distribution with Causal Inference**
-- **Keywords**: Causal Inference, Recommendation System, AB Testing, ROI Optimization
-- **Background**: Specific users may be sensitive to monetary bonuses while others may not. This project aims to identify users who may be stimulated by bonuses using causal inference techniques to maximize potential gain.
+### **User incentives Distribution**
+- **Keywords**: Causal Inference, ROI Optimization
+- **Background**: Specific users may be sensitive to monetary bonuses while others may not. This project aims to identify users who may be stimulated by incentives using causal inference techniques to increase user retention.
 - **Key Contributions**:
-  - Applied causal forest model for robust performance in user bonus sensitivity detection
-  - Designed random A/B testing on over 1 million users to collect user reactions to bonus changes
-  - Proposed new split criterion for causal forest to address multi-target optimization problems
-  - Used active days within the next 14 days as label to capture long-term dependency instead of next-day retention
+  - collected random treatment data from over one million users
+  - Used active days of next 7 days as label instead of next-day retention to reduce the variance of label 
+  - Applied the X-learner framework for robust performance in user incentive sensitivity detection
 - **Results**: 
   - 34% increase in retained users compared to random group in online A/B testing
   - 15% improvement in Return on Investment (ROI)
