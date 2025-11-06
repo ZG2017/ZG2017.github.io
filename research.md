@@ -28,7 +28,7 @@ permalink: /research/
   - Path identification over graphs to infer answers through multiple reasoning chains.
   - Strong performance on multiple kinship and spatial benchmarks
 - **Pipeline Diagram**:
-  ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png){: style="width: 100%; height: 250px; object-fit: contain;" }
+  ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png){: style="width: 100%; height: 350px; object-fit: contain;" }
 
 ### [**Sparse Decomposition of Graph Neural Networks**](https://arxiv.org/abs/2410.19723)
 - **Authors**: Y Hu, M Zeng, **Ge Zhang**, P Rumiantsev, L Ma, Y Zhang, M Coates
