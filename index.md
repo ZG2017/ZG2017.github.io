@@ -38,10 +38,10 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 ## 🎓 Education
 
 ### **Master of Engineering, Electrical & Computer Engineering, University of Toronto** 
-2017/09 – 2019/06 | GPA: 3.67/4.00
+2017/09 – 2019/06
 
 ### **Bachelor of Science, Physics, Wuhan University of Technology** 
-2013/09 – 2017/06 | GPA: 3.75/4.00
+2013/09 – 2017/06
 
 ---
 
