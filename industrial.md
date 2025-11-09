@@ -8,7 +8,7 @@ permalink: /industrial/
 
 ### **Commonsense Reasoning Augmented App Recall**
 - **Keywords**: Recommendation System, NLP, LLM, Graph.
-- **Background**: Industrial implementation of academic research [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](/research/#ecare) to efficiently enhance the app recall procedure with LLM-driven commonsense reasoning.
+- **Background**: Industrial implementation of academic research [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](https://arxiv.org/abs/2511.04087) to efficiently enhance the app recall procedure with LLM-driven commonsense reasoning.
 - **Key Contributions**:
   - Proposed a three-stage pipeline to distill domain commonsense from historical query-to-app interactions into a reasoning factor graph requiring no supervised fine-tuning or human annotation.
   - Developed a pipeline that recalls apps given reasoning factor graph with respect to commonsense behind the input query.

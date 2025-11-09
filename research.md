@@ -6,8 +6,8 @@ permalink: /research/
 
 ## 📚 Academic Research
 
-### <a id="ecare"></a>**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**
-- **Authors**: **Ge Zhang**, et al.
+### [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](https://arxiv.org/abs/2511.04087)
+- **Authors**: **Ge Zhang**, RD Ajwani, T Zheng, H Gu, Y Hu, W Guo, M Coates, Y Zhang
 - **Abstract**: We introduce E-CARE, a cost-efficient LLM-augmented framework that distills domain commonsense into a factor graph, enabling one LLM call per query for e-commerce relevance and retrieval. It yields up to 12.79% Macro F1 and 12.1% Recall@5 gains.
 - **Status**: Under review for WWW 2026.
 - **Key Contributions**: 
@@ -21,7 +21,7 @@ permalink: /research/
 <img src="/resources/research_pipeline.png" alt="Research Pipeline" style="width: 100%; height: 400px; object-fit: contain; display: block; margin: 4px 0;" />
 
 ### [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
-- **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates
+- **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates, Y Zhang, J Hao
 - **Abstract**: Path-of-Thoughts (PoT) decomposes relational reasoning into graph extraction, path identification, and reasoning, achieving up to 21.3% improvements on long-chain benchmarks with few LLM calls and improved robustness.
 - **Key Contributions**:
   - Single-call prompting to extract task-agnostic graphs and queries.
