@@ -42,7 +42,6 @@ permalink: /industrial/
   - Addressed the **causal inference** challenge of identifying users who are more sensitive to monetary bonuses to optimize **incentive distribution** and increase **user retention** for China's second-largest short video platform
   - Conducted an online randomized incentive experiment on **1M+ users**, collecting high-quality treatment/control data for building a robust causal inference framework
   - Leveraged the **X-learner framework** to estimate heterogeneous treatment effects while addressing **treatment/control data imbalance** issue
-  - Used active days within the next 14 days as label to capture long-term dependency instead of next-day retention
 - **Results**: 
   - Increased **retained user count by 34%** compared to a random allocation baseline in A/B testing
   - Improved **Return on Investment (ROI) by 15%** by accurately targeting users most likely to respond to incentives
