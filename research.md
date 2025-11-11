@@ -11,9 +11,12 @@ permalink: /research/
 - **Abstract**: We introduce E-CARE, a cost-efficient LLM-augmented framework that distills domain commonsense into a factor graph, enabling one LLM call per query for e-commerce relevance and retrieval. It yields up to 12.79% Macro F1 and 12.1% Recall@5 gains.
 - **Status**: Under review for WWW 2026.
 - **Key Contributions**: 
-  - Distilled domain commonsense from historical query–product pairs into a reasoning factor graph.
-  - Three-stage pipeline requiring no supervised fine-tuning or human annotation.
-  - Consistent improvements in search relevance and app recall (up to 12.79% Macro F1, 12.1% Recall@5).
+  - Developed a scalable LLM-enhanced framework to improve **query-item relevance matching** in e-commerce recommendation scenarios by injecting **commonsense reasoning** from LLMs
+  - Designed a 3-stage training pipeline that removes the need for costly SFT, large-scale human annotations, and real-time LLM inference during serving
+  - Constructed a **reasoning factor graph** that distills reasoning from **Qwen2.5-7B-Instruct** and **Llama-3.1-8B-Instruct**, enabling downstream ranking models to access commonsense knowledge with only a single LLM forward pass per query
+  - Optimized the reasoning factor graph with **LLM uncertainty estimation** mechanisms to improve its reliability and robustness
+  - Achieved improvements of up to **12.8% Micro-F1** (search relevance) and **12.1% Precision@5** (app recall) in offline evaluations
+  - Online A/B test demonstrated **+8.2% Conversion Rate (CVR)** in app advertising recall
 - **Pipeline Diagram**:
   - Reasoning factor graph generation:
 <img src="/resources/ECARE_pipeline.png" alt="E-CARE Pipeline" style="width: 100%; height: 300px; object-fit: contain; display: block; margin: 4px 0;" />
@@ -23,10 +26,13 @@ permalink: /research/
 ### [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](https://arxiv.org/abs/2412.17963)
 - **Authors**: **Ge Zhang**, MA Alomrani, H Gu, J Zhou, Y Hu, B Wang, Q Liu, M Coates, Y Zhang, J Hao
 - **Abstract**: Path-of-Thoughts (PoT) decomposes relational reasoning into graph extraction, path identification, and reasoning, achieving up to 21.3% improvements on long-chain benchmarks with few LLM calls and improved robustness.
+- **Status**: Newest version is under review by the TMLR journal
 - **Key Contributions**:
-  - Single-call prompting to extract task-agnostic graphs and queries.
-  - Path identification over graphs to infer answers through multiple reasoning chains.
-  - Strong performance on multiple kinship and spatial benchmarks
+  - Addressed LLM limitations in **multi-hop relational reasoning** tasks (e.g., kinship, spatial relations)
+  - Developed a structured reasoning pipeline of graph extraction, reasoning path identification, and relation deduction to improve reasoning reliability
+  - Improved accuracy by up to **21.3%** across both thinking LLMs (**GPT-5**, **GPT-o1-mini**, **Claude-3.7-Sonnet**, etc.) and non-thinking LLMs (**GPT-4o**, **Llama-3-70B**, etc.) on four benchmarks
+  - Demonstrated robustness to noisy descriptions and LLM extraction errors, outperforming prior neuro-symbolic approaches
+  - Generated reusable relational graphs supporting internal data generation for **SFT of in-house LLMs** and other research on [**complex reasoning with LLMs**](https://arxiv.org/abs/2409.12437)
 - **Pipeline Diagram**:
   ![Path-of-Thoughts Pipeline](/resources/pot_pipeline.png){: style="width: 100%; height: 350px; object-fit: contain;" }
 
