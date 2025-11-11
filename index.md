@@ -19,9 +19,9 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ## 💼 Professional Experience & Highlight Projects
 
-### **Senior AI Researcher (Contractor)** | Huawei Canada - Noah's Ark Lab
+### **Senior AI Researcher** | Huawei Canada - Noah's Ark Lab (Contractor)
 2021/10 – Present
-- **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce** [Research](/research/#e-care-an-efficient-llm-based-commonsense-augmented-framework-for-e-commerce) &#124; [industrial](/industrial/#commonsense-reasoning-augmented-app-recall)
+- **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce** [Research](/research/#e-care-an-efficient-llm-based-commonsense-augmented-framework-for-e-commerce) &#124; [Industrial](/industrial/#commonsense-reasoning-augmented-app-recall)
 - [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](/research/#path-of-thoughts-robust-relational-reasoning-with-llms)
 
 ### **ML Algorithm Engineer** | Kuaishou Technology
