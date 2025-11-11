@@ -17,11 +17,11 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 
 ---
 
-## 💼 Professional Experience & Leading Projects
+## 💼 Professional Experience & Highlight Projects
 
 ### **Senior AI Researcher (Contractor)** | Huawei Canada - Noah's Ark Lab
 2021/10 – Present
-- **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce** [research](/research/#e-care-an-efficient-llm-based-commonsense-augmented-framework-for-e-commerce) • [industrial](/industrial/#commonsense-reasoning-augmented-app-recall)
+- **E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce** [Research](/research/#e-care-an-efficient-llm-based-commonsense-augmented-framework-for-e-commerce) &#124; [industrial](/industrial/#commonsense-reasoning-augmented-app-recall)
 - [**Path-of-Thoughts: Robust Relational Reasoning with LLMs**](/research/#path-of-thoughts-robust-relational-reasoning-with-llms)
 
 ### **ML Algorithm Engineer** | Kuaishou Technology
@@ -31,6 +31,14 @@ description: Recommendation Systems, LLMs-based Reasoning/Agent/Memory systems, 
 ### **Data Scientist** | MorningStar
 2019/07 – 2020/11
 - [**Unorthodox Fund Name Abbreviation Matching**](/industrial/#unorthodox-fund-name-abbreviation-matching)
+
+---
+
+## 🚀 Personal Projects
+
+- [**News Agent with LangGraph**](/projects/#news-agent-with-langgraph)
+- [**Reinforcement Learning to Play Chrome T-rex Runner Game**](/projects/#reinforcement-learning-to-play-chrome-t-rex-runner-game)
+- [**Practical Comparison of SFT Approaches for LLMs**](/projects/#practical-comparison-of-sft-approaches-for-llms)
 
 ---
 
