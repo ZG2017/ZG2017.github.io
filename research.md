@@ -8,7 +8,7 @@ permalink: /research/
 
 ### [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](https://arxiv.org/abs/2511.04087)
 - **Authors**: **Ge Zhang**, RD Ajwani, T Zheng, H Gu, Y Hu, W Guo, M Coates, Y Zhang
-- **Abstract**: E-CARE is a cost-efficient LLM-augmented ranking framework that distills domain-specific commonsense into a reasoning factor graph, enabling **one LLM call per query** for relevance prediction and recall. The approach yields up to **12.8% Micro-F1** and **12.1% Precision@5** gains in e-commerce relevance tasks.
+- **Abstract**: E-CARE is a cost-efficient LLM-augmented ranking framework that distills domain-specific commonsense into a reasoning factor graph, enabling **one LLM call per query** for relevance prediction and recall. The approach yields up to **12.8% Micro-F1** gains in the serach relevance task.
 - **Key Contributions**:
   - Proposed a scalable LLM-enhanced relevance framework that improves **query–item matching** in e-commerce through **commonsense reasoning** extracted from LLMs
   - Introduced a **3-stage training pipeline** that removes reliance on costly SFT, large-scale manual annotations, and real-time LLM decoding during serving
