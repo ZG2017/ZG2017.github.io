@@ -7,15 +7,14 @@ permalink: /industrial/
 ## 🏭 Industrial Projects
 
 ### **Commonsense Reasoning Augmented App Recall**
-- **Background**: Industrial implementation of academic research [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](https://arxiv.org/abs/2511.04087) to efficiently enhance the app recall procedure with LLM-driven commonsense reasoning.
+- **Background**: Industrial application of academic research [**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**](https://arxiv.org/abs/2511.04087) to efficiently enhance the app recall procedure with LLM-driven commonsense reasoning.
 - **Key Contributions**:
-  - Designed a commonsense-augmented recall framework that improves **query–app relevance estimation** by incorporating **commonsense reasoning** signals.
+  - Designed a commonsense-augmented recall framework that improves **query–app relevance estimation** by incorporating **commonsense reasoning** signals from LLMs.
   - Followed the same 3-stage pipeline from [**E-CARE**](https://arxiv.org/abs/2511.04087) that employs **Qwen2.5-7B-Instruct** to generate commonsense reasoning between query-app interactions, and builds a **reasoning factor graph** to store semantic relationships between queries and apps through reasoning factors.
   - Trained lightweight adapters that map queries and apps into the reasoning factor space, enabling **efficient inference** for serving stage.
   - During serving, the query adapter predicts reasoning factors that represent user intentions, and apps linked to those predicted factors are retrieved as recall candidates.
 - **Results**:
-  - Achieved **12.1% Precision@5** improvement during offline evaluation
-  - Online A/B experimentation demonstrated a **+8.2% lift in Conversion Rate (CVR)** for app recall.
+  - Online A/B test demonstrated **1.41%**, **0.65%** and **3.39%** improvements for **Value Per Mille (VPM)**, **Click Through Rate (CTR)**, and **ConVersion Rate (CVR)**, respectively.
 - **Diagram**:
 <img src="/resources/ECARE_pipeline_v2.png" alt="graph generation" style="width:100%; height:220px; object-fit:contain;" />
 <div style="display:flex; gap: 12px; align-items:flex-start;">
